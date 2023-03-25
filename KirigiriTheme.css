@@ -1,0 +1,29 @@
+/**
+* @name Danganronpa Kirigiri
+* @version 1.0.0
+* @description Made By Shino's#0001
+* @author Shino's#0001
+* @authorLink http://www.frenchspirit.tk
+* @Source https://github.com/codedotspectra/themes
+* @website http://www.frenchspirit.tk
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin');
+:root {
+--themeColor1: #700DDCFF;
+--themeColor2: #BA31E5FF;
+--customFont: 'Pangolin';
+--homeImage: url('https://i.ibb.co/c32Qptx/Sans-titre-1-1.png');
+--homeImageSize: cover;
+--backgroundColor: #000329FF;
+--backgroundImage: url('https://i.pinimg.com/originals/ff/09/4c/ff094c3625c75088a0607f716869bbb5.gif');
+/*--backgroundImage: url('https://wallpapercave.com/wp/wp5763978.png');*/
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+}
