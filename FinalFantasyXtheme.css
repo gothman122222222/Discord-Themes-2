@@ -1,0 +1,28 @@
+/**
+ * @name Final Fantasy X
+ * @author yatokat
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/49631-final-fantasy-x.html
+ * @authorLink https://vsthemes.org/user/yatokat/
+ * @authorId 93374
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.3;
+    --guildchanneltransparency: 0.25;
+    --memberlistransparency: 0.25;
+    --accentcolor: 71,171,238;
+    --background: url("https://vsthemes.org/uploads/posts/2022-02/1643872694_wallpaperflare_com_wallpaper.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
+D
